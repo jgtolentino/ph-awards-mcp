@@ -1,4 +1,7 @@
-FROM node:18-alpine
+FROM node:20-alpine
+
+# Install build dependencies for better-sqlite3
+RUN apk add --no-cache python3 make g++ 
 
 # Set working directory
 WORKDIR /app
