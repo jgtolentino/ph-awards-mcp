@@ -4,8 +4,8 @@ FROM node:18-alpine
 WORKDIR /app
 
 # Copy package files
-COPY package-mcp.json package.json
-COPY ph-awards-mcp-service.js .
+COPY package.json .
+COPY index.js .
 COPY ces_intelligence.db .
 
 # Install dependencies
