@@ -1,0 +1,30 @@
+{
+  "name": "ph-awards-mcp-service",
+  "version": "1.0.0",
+  "description": "PH Awards MCP Service - Standalone REST API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node ph_awards_test_script.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "better-sqlite3": "^12.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "ph-awards",
+    "mcp",
+    "api",
+    "sqlite",
+    "philippines",
+    "awards"
+  ],
+  "author": "InsightPulseAI",
+  "license": "MIT"
+}
