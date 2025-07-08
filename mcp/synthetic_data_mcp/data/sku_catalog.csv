@@ -1,0 +1,92 @@
+sku_id,brand_id,sku_name,pack_size,unit,msrp
+1001,1,Alaska Evap 140ml,140,ml,25
+1002,1,Alaska Evap 154ml,154,ml,30
+1003,1,Alaska Evap 370ml,370,ml,59
+1004,2,Alaska Condensada 300ml,300,ml,62
+1005,2,Alaska Condensada 390ml,390,ml,75
+1006,3,Alaska Powdered Milk 33g,33,g,17
+1007,3,Alaska Powdered Milk 80g,80,g,35
+1008,3,Alaska Powdered Milk 150g,150,g,65
+1009,4,Krem-Top Pouch 170g,170,g,52
+1010,4,Krem-Top Pouch 250g,250,g,78
+1011,5,Alpine Evap 370ml,370,ml,66
+1012,6,Cow Bell Condensada 300ml,300,ml,46
+1101,7,Oishi Prawn Crackers 30g,30,g,10
+1102,7,Oishi Prawn Crackers 90g,90,g,29
+1103,7,Oishi Prawn Crackers 150g,150,g,45
+1104,8,Oishi Pillows Chocolate 96g,96,g,38
+1105,8,Oishi Pillows Ube 96g,96,g,38
+1106,9,Oishi Marty's Cracklin 90g,90,g,29
+1107,10,Oishi Ridges Cheese 70g,70,g,25
+1108,11,Oishi Bread Pan Cheese 42g,42,g,18
+1109,12,Oishi Gourmet Picks 80g,80,g,35
+1110,13,Oishi Crispy Patata 60g,60,g,22
+1111,14,Oishi Smart C+ Orange 200ml,200,ml,18
+1112,14,Oishi Smart C+ Apple 200ml,200,ml,18
+1113,15,Oaties Chocolate 200ml,200,ml,18
+1114,16,Hi-Ho Crackers 150g,150,g,42
+1115,17,Rinbee Cheese Sticks 85g,85,g,28
+1116,18,Deli Mex Nachos 100g,100,g,35
+1201,19,Champion Detergent 400g,400,g,51
+1202,19,Champion Detergent 1kg,1000,g,120
+1203,19,Champion Detergent 2kg,2000,g,230
+1204,20,Calla Fabric Conditioner 750ml,750,ml,80
+1205,21,Hana Shampoo Sachet 15ml,15,ml,8
+1206,21,Hana Shampoo 200ml,200,ml,65
+1207,22,Cyclone Bleach 500ml,500,ml,45
+1208,22,Cyclone Bleach 1L,1000,ml,85
+1209,23,Pride Dishwashing Liquid 270ml,270,ml,55
+1210,24,Care Plus Alcohol 250ml,250,ml,65
+1211,24,Care Plus Alcohol 500ml,500,ml,120
+1301,25,Del Monte Pineapple Juice 240ml,240,ml,35
+1302,25,Del Monte Pineapple Juice 1L,1000,ml,120
+1303,26,Del Monte Tomato Sauce 200g,200,g,25
+1304,26,Del Monte Tomato Sauce 1kg,1000,g,95
+1305,27,Del Monte Spaghetti Sauce 500g,500,g,55
+1306,27,Del Monte Spaghetti Sauce 1kg,1000,g,90
+1307,28,Del Monte Fruit Cocktail 432g,432,g,79
+1308,29,Del Monte Spaghetti 900g,900,g,68
+1309,30,S&W Pineapple Chunks 227g,227,g,56
+1310,31,Today's Budget Sauce 200g,200,g,18
+1311,32,Fit n Right Apple 330ml,330,ml,35
+1401,33,Winston Blue 20s,20,sticks,140
+1402,33,Winston Red 20s,20,sticks,140
+1403,34,Camel Yellow 20s,20,sticks,150
+1404,34,Camel Blue 20s,20,sticks,150
+1405,35,Mevius Sky Blue 20s,20,sticks,155
+1406,35,Mevius Purple 20s,20,sticks,155
+1407,36,LD Green 20s,20,sticks,125
+1408,36,LD Red 20s,20,sticks,125
+1409,37,Mighty Full Flavor 20s,20,sticks,105
+1410,37,Mighty Menthol 20s,20,sticks,105
+1411,38,Caster Mild 20s,20,sticks,130
+1412,39,Glamour Menthol 20s,20,sticks,120
+1501,40,Bear Brand Powdered 33g,33,g,22
+1502,40,Bear Brand Powdered 150g,150,g,85
+1503,40,Bear Brand Powdered 300g,300,g,165
+1504,41,Milo 22g Sachet,22,g,12
+1505,41,Milo 300g Pack,300,g,145
+1506,42,Nescafe 3in1 Twin Pack,50,g,20
+1507,42,Nescafe Classic 100g,100,g,185
+1508,43,Maggi Savor 130ml,130,ml,42
+1509,44,Surf Powder 65g,65,g,15
+1510,44,Surf Powder 500g,500,g,85
+1511,45,Breeze Powder 65g,65,g,16
+1512,46,Ariel Powder 66g,66,g,18
+1513,46,Ariel Powder 900g,900,g,165
+1514,47,Tide Powder 65g,65,g,17
+1515,48,Downy Fabric Conditioner 25ml,25,ml,12
+1516,48,Downy Fabric Conditioner 800ml,800,ml,145
+1517,49,Coca-Cola 330ml,330,ml,20
+1518,49,Coca-Cola 1.5L,1500,ml,65
+1519,50,Sprite 330ml,330,ml,20
+1520,50,Sprite 1.5L,1500,ml,65
+1521,51,Royal 330ml,330,ml,20
+1522,52,Pepsi 330ml,330,ml,18
+1523,52,Pepsi 1.5L,1500,ml,60
+1524,53,Mountain Dew 330ml,330,ml,18
+1525,54,Marlboro Red 20s,20,sticks,160
+1526,54,Marlboro Lights 20s,20,sticks,160
+1527,55,Fortune International 20s,20,sticks,135
+1528,56,Hope Luxury 20s,20,sticks,140
+1529,57,Champion Filter 20s,20,sticks,115

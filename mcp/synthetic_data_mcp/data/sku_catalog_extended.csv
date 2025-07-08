@@ -1,0 +1,246 @@
+sku_id,brand_id,sku_name,pack_size,unit,msrp
+1001,1,Alaska Evap 140ml,140,ml,25
+1002,1,Alaska Evap 154ml,154,ml,30
+1003,1,Alaska Evap 370ml,370,ml,59
+1004,1,Alaska Evap 410ml,410,ml,65
+1005,2,Alaska Condensada 300ml,300,ml,62
+1006,2,Alaska Condensada 390ml,390,ml,75
+1007,3,Alaska Powdered 33g,33,g,17
+1008,3,Alaska Powdered 80g,80,g,35
+1009,3,Alaska Powdered 150g,150,g,65
+1010,4,Krem-Top 170g,170,g,52
+1011,4,Krem-Top 250g,250,g,78
+1012,5,Alpine Evap 370ml,370,ml,56
+1013,6,Cow Bell Condensada 300ml,300,ml,58
+1014,7,Oishi Prawn Crackers 30g,30,g,10
+1015,7,Oishi Prawn Crackers 90g,90,g,29
+1016,7,Oishi Prawn Crackers 150g,150,g,45
+1017,8,Oishi Pillows 96g,96,g,38
+1018,8,Oishi Pillows 150g,150,g,55
+1019,9,Oishi Marty's 25g,25,g,8
+1020,9,Oishi Marty's 90g,90,g,28
+1021,10,Oishi Ridges 50g,50,g,20
+1022,11,Oishi Bread Pan 42g,42,g,15
+1023,12,Oishi Gourmet Picks 50g,50,g,25
+1024,13,Oishi Crispy Patata 50g,50,g,20
+1025,14,Oishi Smart C+ 250ml,250,ml,15
+1026,14,Oishi Smart C+ 500ml,500,ml,25
+1027,15,Oaties 250ml,250,ml,12
+1028,16,Hi-Ho 32g,32,g,12
+1029,17,Rinbee 85g,85,g,30
+1030,18,Deli Mex 100g,100,g,35
+1031,19,Champion Detergent Bar 130g,130,g,18
+1032,19,Champion Detergent Bar 380g,380,g,45
+1033,19,Champion Liquid 250ml,250,ml,35
+1034,20,Calla Bleach 250ml,250,ml,20
+1035,20,Calla Bleach 500ml,500,ml,35
+1036,21,Hana Shampoo Sachet 12ml,12,ml,6
+1037,21,Hana Shampoo 100ml,100,ml,45
+1038,22,Cyclone Insecticide 300ml,300,ml,85
+1039,23,Pride Detergent Bar 110g,110,g,15
+1040,24,Care Plus Alcohol 60ml,60,ml,25
+1041,24,Care Plus Alcohol 250ml,250,ml,65
+1042,25,Del Monte Pineapple Juice 240ml,240,ml,25
+1043,25,Del Monte Pineapple Juice 1L,1000,ml,75
+1044,26,Del Monte Tomato Sauce 200g,200,g,28
+1045,26,Del Monte Tomato Sauce 1kg,1000,g,98
+1046,27,Del Monte Sweet Style Spaghetti Sauce 250g,250,g,42
+1047,27,Del Monte Sweet Style Spaghetti Sauce 500g,500,g,75
+1048,28,Del Monte Fruit Cocktail 432g,432,g,85
+1049,28,Del Monte Fruit Cocktail 850g,850,g,145
+1050,29,Del Monte Spaghetti 400g,400,g,38
+1051,29,Del Monte Spaghetti 900g,900,g,75
+1052,30,S&W Fruit Cocktail 425g,425,g,95
+1053,31,Today's Fruit Cocktail 432g,432,g,65
+1054,32,Fit 'n Right 330ml,330,ml,25
+1055,32,Fit 'n Right 500ml,500,ml,35
+1056,33,Winston Blue 20s,20,sticks,140
+1057,33,Winston Red 20s,20,sticks,140
+1058,33,Winston Lights 10s,10,sticks,75
+1059,34,Camel Blue 20s,20,sticks,150
+1060,34,Camel Filters 20s,20,sticks,150
+1061,35,Mevius 20s,20,sticks,155
+1062,36,LD 20s,20,sticks,130
+1063,37,Mighty Red 20s,20,sticks,120
+1064,37,Mighty Menthol 20s,20,sticks,120
+1065,38,Caster 20s,20,sticks,145
+1066,39,Glamour 20s,20,sticks,135
+1067,40,Bear Brand Powdered 33g,33,g,17
+1068,40,Bear Brand Powdered 150g,150,g,85
+1069,40,Bear Brand Powdered 320g,320,g,165
+1070,40,Bear Brand Swak Pack 80g,80,g,42
+1071,41,Milo 24g Sachet,24,g,12
+1072,41,Milo 300g,300,g,125
+1073,41,Milo 1kg,1000,g,380
+1074,41,Milo RTD 180ml,180,ml,20
+1075,42,Nescafé 3in1 Original 25g,25,g,10
+1076,42,Nescafé 3in1 Twin Pack 50g,50,g,18
+1077,42,Nescafé 3in1 10x20g,200,g,95
+1078,43,Maggi Magic Sarap 8g,8,g,5
+1079,43,Maggi Magic Sarap 100g,100,g,45
+1080,44,Koko Krunch 30g,30,g,15
+1081,44,Koko Krunch 330g,330,g,125
+1082,45,Nestlé All Purpose Cream 125ml,125,ml,25
+1083,45,Nestlé All Purpose Cream 250ml,250,ml,45
+1084,46,Nido 3+ 150g,150,g,85
+1085,46,Nido Fortified 350g,350,g,185
+1086,47,Surf Powder Sachet 66g,66,g,12
+1087,47,Surf Bar 60g,60,g,10
+1088,47,Surf Bar 130g,130,g,20
+1089,48,Breeze Powder 65g,65,g,12
+1090,48,Breeze Bar 130g,130,g,20
+1091,49,Knorr Cubes Chicken 10g,10,g,5
+1092,49,Knorr Liquid Seasoning 130ml,130,ml,35
+1093,50,Dove White Bar 135g,135,g,65
+1094,51,Rexona Deo Roll-on 40ml,40,ml,95
+1095,52,Sunsilk Shampoo Sachet 12ml,12,ml,6
+1096,52,Sunsilk Shampoo 180ml,180,ml,95
+1097,53,Ariel Powder 66g,66,g,15
+1098,53,Ariel Bar 130g,130,g,23
+1099,54,Tide Bar 130g,130,g,23
+1100,54,Tide Powder 700g,700,g,90
+1101,55,Downy Fabric Conditioner 25ml Sachet,25,ml,8
+1102,55,Downy Sunrise Fresh 800ml,800,ml,135
+1103,56,Safeguard White 60g,60,g,20
+1104,56,Safeguard Family Pack 135g,135,g,38
+1105,57,Pampers Baby Dry Small 4s,4,pcs,45
+1106,57,Pampers Baby Dry Medium 4s,4,pcs,50
+1107,58,Head & Shoulders Sachet 12ml,12,ml,7
+1108,58,Head & Shoulders 180ml,180,ml,125
+1109,59,Coca-Cola Mismo 250ml,250,ml,15
+1110,59,Coca-Cola Kasalo 750ml,750,ml,32
+1111,59,Coca-Cola 1.5L,1500,ml,65
+1112,60,Sprite Mismo 250ml,250,ml,15
+1113,60,Sprite 1.5L,1500,ml,65
+1114,61,Royal Mismo 250ml,250,ml,15
+1115,61,Royal 1.5L,1500,ml,65
+1116,62,Minute Maid Pulpy Orange 350ml,350,ml,20
+1117,63,Pepsi 250ml,250,ml,14
+1118,63,Pepsi 1.5L,1500,ml,60
+1119,64,Mountain Dew 250ml,250,ml,14
+1120,64,Mountain Dew 1.5L,1500,ml,60
+1121,65,7-Up 250ml,250,ml,14
+1122,65,7-Up 1.5L,1500,ml,60
+1123,66,Gatorade Blue Bolt 350ml,350,ml,35
+1124,66,Gatorade 500ml,500,ml,45
+1125,67,Chippy BBQ 27g,27,g,10
+1126,67,Chippy BBQ 110g,110,g,32
+1127,68,Nova Country Cheddar 78g,78,g,25
+1128,69,Piattos Cheese 40g,40,g,20
+1129,69,Piattos 85g,85,g,35
+1130,70,Great Taste White 30g,30,g,12
+1131,70,Great Taste 3in1 Twin Pack 60g,60,g,20
+1132,71,C2 Apple 230ml,230,ml,12
+1133,71,C2 Lemon 500ml,500,ml,20
+1134,72,Maxx Honey Butter 50g,50,g,20
+1135,73,Oreo Vanilla 38g,38,g,15
+1136,73,Oreo 9 Pack 133g,133,g,46
+1137,74,Tang Orange 25g,25,g,10
+1138,74,Tang Four Seasons 500g,500,g,125
+1139,75,Eden Cheese 165g,165,g,95
+1140,76,Toblerone 35g,35,g,65
+1141,77,Lucky Me Pancit Canton Original 60g,60,g,14
+1142,77,Lucky Me Pancit Canton Sweet & Spicy 60g,60,g,14
+1143,77,Lucky Me Supreme La Paz Batchoy,70,g,25
+1144,78,Payless Xtra Big Pancit Canton 80g,80,g,18
+1145,79,SkyFlakes 25g,25,g,7
+1146,79,SkyFlakes 250g,250,g,45
+1147,80,Fita 28g,28,g,7
+1148,81,M.Y. San Grahams Honey 200g,200,g,55
+1149,82,Silver Swan Soy Sauce 200ml,200,ml,15
+1150,82,Silver Swan Soy Sauce 1L,1000,ml,55
+1151,83,Datu Puti Vinegar 200ml,200,ml,12
+1152,83,Datu Puti Vinegar 1L,1000,ml,40
+1153,84,UFC Banana Ketchup 200g,200,g,25
+1154,84,UFC Banana Ketchup 550g,550,g,55
+1155,85,Mang Tomas Siga 325g,325,g,68
+1156,86,Papa Banana Ketchup 320g,320,g,35
+1157,87,Century Tuna Flakes in Oil 155g,155,g,42
+1158,87,Century Tuna Hot & Spicy 155g,155,g,42
+1159,87,Century Tuna Lite 155g,155,g,45
+1160,88,Argentina Corned Beef 100g,100,g,35
+1161,88,Argentina Corned Beef 175g,175,g,55
+1162,89,555 Sardines Green 155g,155,g,22
+1163,89,555 Sardines Red 155g,155,g,22
+1164,90,Angel Evaporada 410ml,410,ml,58
+1165,91,CDO Karne Norte 150g,150,g,38
+1166,91,CDO Karne Norte 260g,260,g,62
+1167,92,CDO Meatloaf 150g,150,g,32
+1168,93,Highlands Corned Beef 180g,180,g,48
+1169,94,Tender Juicy Hotdog Regular 500g,500,g,125
+1170,94,Tender Juicy Hotdog Jumbo 500g,500,g,145
+1171,95,Purefoods Corned Beef 150g,150,g,42
+1172,96,Star Margarine 100g,100,g,25
+1173,96,Star Margarine 250g,250,g,52
+1174,97,Magnolia Ice Cream 1.5L,1500,ml,285
+1175,98,Magnolia Quickmelt 165g,165,g,95
+1176,99,Marlboro Red 20s,20,sticks,160
+1177,99,Marlboro Lights 20s,20,sticks,160
+1178,99,Marlboro Black 20s,20,sticks,160
+1179,100,Fortune Menthol 20s,20,sticks,125
+1180,100,Fortune Red 20s,20,sticks,125
+1181,101,Philip Morris 20s,20,sticks,155
+1182,102,Hope Luxury Red 20s,20,sticks,95
+1183,103,Champion Red 20s,20,sticks,85
+1184,104,Two Moon Red 20s,20,sticks,90
+1185,105,Cobra Energy Drink 350ml,350,ml,25
+1186,106,Vitwater 500ml,500,ml,15
+1187,107,Summit Water 500ml,500,ml,12
+1188,108,Absolute Water 500ml,500,ml,10
+1189,108,Absolute Water 1L,1000,ml,18
+1190,109,Kopiko 3in1 30g,30,g,10
+1191,109,Kopiko Brown Twin Pack 60g,60,g,18
+1192,110,Kopiko Black 30g,30,g,12
+1193,111,Energen Chocolate 30g,30,g,12
+1194,112,Colgate Maximum Cavity Protection 50ml,50,ml,35
+1195,112,Colgate Triple Action 155g,155,g,85
+1196,113,Palmolive Naturals Shampoo Sachet 12ml,12,ml,6
+1197,114,Axion Dishwashing Paste 350g,350,g,35
+1198,115,Joy Dishwashing Liquid 250ml,250,ml,35
+1199,116,Mr. Clean All Purpose 500ml,500,ml,65
+1200,121,Zonrox Bleach 250ml,250,ml,25
+1201,121,Zonrox Bleach 500ml,500,ml,42
+1202,122,Glade Air Freshener 280g,280,g,125
+1203,123,Baygon Multi Insect Killer 300ml,300,ml,155
+1204,124,Mr. Muscle Kitchen Cleaner 500ml,500,ml,85
+1205,125,Johnson's Baby Powder 50g,50,g,45
+1206,125,Johnson's Baby Oil 50ml,50,ml,55
+1207,126,Modess All Night 8s,8,pcs,45
+1208,127,Listerine Cool Mint 100ml,100,ml,65
+1209,128,Carefree Pantyliner 20s,20,pcs,45
+1210,129,Huggies Dry Small 5s,5,pcs,55
+1211,129,Huggies Dry Medium 5s,5,pcs,60
+1212,130,Kotex Soft & Smooth 8s,8,pcs,42
+1213,131,Kleenex Facial Tissue 50s,50,sheets,35
+1214,132,EQ Dry Small 4s,4,pcs,38
+1215,133,Charmee All Night 8s,8,pcs,38
+1216,134,Sisters Napkin Regular 8s,8,pcs,35
+1217,135,Friskies Party Mix 60g,60,g,65
+1218,137,Dog Chow Adult 500g,500,g,95
+1219,138,Pedigree Puppy 130g,130,g,35
+1220,139,Whiskas Tuna 85g,85,g,28
+1221,140,Energizer Max AAA 2s,2,pcs,95
+1222,140,Energizer Max AA 2s,2,pcs,95
+1223,141,Eveready Black AA 2s,2,pcs,45
+1224,142,Duracell AA 2s,2,pcs,105
+1225,145,Ajinomoto Umami Seasoning 50g,50,g,25
+1226,145,Ajinomoto Umami Seasoning 100g,100,g,45
+1227,146,Sarsaya Oyster Sauce 156ml,156,ml,35
+1228,147,Crispy Fry Original 30g,30,g,15
+1229,149,Minola Cooking Oil 250ml,250,ml,45
+1230,149,Minola Cooking Oil 1L,1000,ml,155
+1231,150,Golden Fiesta Palm Oil 1L,1000,ml,145
+1232,151,Baguio Cooking Oil 1L,1000,ml,150
+1233,152,Jolly Mushrooms Pieces & Stems 400g,400,g,85
+1234,153,Ram Whole Kernel Corn 425g,425,g,55
+1235,154,Fiesta Sweet Style Spaghetti Sauce 250g,250,g,38
+1236,155,White King Pancit Canton 60g,60,g,12
+1237,156,Selecta Ice Cream 1.5L,1500,ml,295
+1238,160,San Mig Light 330ml,330,ml,58
+1239,161,Red Horse 500ml,500,ml,65
+1240,162,Ginebra San Miguel 350ml,350,ml,85
+1241,163,GSM Blue 350ml,350,ml,95
+1242,165,Tanduay Five Years 350ml,350,ml,120
+1243,166,Emperador Light 350ml,350,ml,75
+1244,170,Nature Spring Water 500ml,500,ml,15
+1245,171,Wilkins Pure Water 500ml,500,ml,12
