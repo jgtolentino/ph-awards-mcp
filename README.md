@@ -1,45 +1,49 @@
-# PH Awards MCP Service
+# ph-awards-mcp (TypeScript Edition)
 
-Standalone REST API for Philippine Awards Campaign Intelligence
+MCP server following Claude Desktop best practices.
 
-## Features
-
-- ✅ Campaign statistics and analytics
-- ✅ Award prediction algorithms
-- ✅ Filipino cultural intelligence
-- ✅ Campaign search and filtering
-- ✅ SQLite database integration
-
-## API Endpoints
-
-- `GET /health` - Service health check
-- `GET /api/v1/ph-awards/stats` - Campaign statistics
-- `POST /api/v1/ph-awards/campaigns/search` - Search campaigns
-- `GET /api/v1/ph-awards/cultural/trends` - Cultural trends
-- `POST /api/v1/ph-awards/predict/award` - Award prediction
-
-## Deployment
-
-Deploy to Render with:
-- Build Command: `npm install`
-- Start Command: `npm start`
-- Environment: Node.js 18+
-
-## Usage
+## Installation
 
 ```bash
-# Health check
-curl https://your-service.onrender.com/health
-
-# Get statistics
-curl https://your-service.onrender.com/api/v1/ph-awards/stats
-
-# Predict award potential
-curl -X POST https://your-service.onrender.com/api/v1/ph-awards/predict/award \
-  -H "Content-Type: application/json" \
-  -d '{"campaign_text": "Your campaign description"}'
+npm install
+npm run build
 ```
 
-## Database
+## Configuration
 
-Uses SQLite database `ces_intelligence.db` with Philippine Awards campaign data.
+### Claude Desktop Setup
+
+Add to your Claude Desktop configuration:
+
+```json
+{
+  "mcpServers": {
+    "ph-awards-mcp": {
+      "command": "node",
+      "args": ["/Users/tbwa/Library/Mobile Documents/com~apple~CloudDocs/Documents/TBWA/retail-insights-dashboard-ph/ph-awards-mcp/dist/index.js"],
+      "env": {
+        "MCP_DEBUG": "true",
+        "MCP_LOG_FILE": "/Users/tbwa/Library/Mobile Documents/com~apple~CloudDocs/Documents/TBWA/retail-insights-dashboard-ph/ph-awards-mcp/debug.log"
+      }
+    }
+  }
+}
+```
+
+## Development
+
+```bash
+npm run dev   # Development mode with hot reload
+npm test      # Run tests
+npm run build # Build for production
+```
+
+## Migration Notes
+
+This project has been migrated to TypeScript following MCP best practices:
+- No console output (uses file-based logging)
+- TypeScript for type safety
+- Zod validation for inputs
+- Graceful shutdown handling
+- Proper error handling with MCP error codes
+

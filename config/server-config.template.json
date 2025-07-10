@@ -1,0 +1,15 @@
+{
+  "api": {
+    "baseUrl": "${RENDER_API_URL}",
+    "timeout": 30000
+  },
+  "logging": {
+    "debug": false,
+    "logFile": "./mcp-debug.log"
+  },
+  "features": {
+    "caching": true,
+    "maxCacheSize": 100,
+    "cacheTTL": 3600
+  }
+}

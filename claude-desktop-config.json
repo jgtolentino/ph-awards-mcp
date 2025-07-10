@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ph-awards-local": {
+      "command": "node",
+      "args": ["/Users/tbwa/Library/Mobile Documents/com~apple~CloudDocs/Documents/TBWA/retail-insights-dashboard-ph/ph-awards-mcp/dist/index.js"],
+      "env": {
+        "RENDER_API_URL": "https://gagambi-backend.onrender.com",
+        "MCP_DEBUG": "true",
+        "MCP_LOG_FILE": "/Users/tbwa/Library/Mobile Documents/com~apple~CloudDocs/Documents/TBWA/retail-insights-dashboard-ph/ph-awards-mcp/debug.log"
+      }
+    }
+  }
+}

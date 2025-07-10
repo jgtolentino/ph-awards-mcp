@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: ph-awards-mcp
+    runtime: docker
+    region: oregon
+    plan: starter
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: RENDER_API_URL
+        value: https://gagambi-backend.onrender.com
+      - key: MCP_DEBUG
+        value: false
+      - key: MCP_LOG_FILE
+        value: /app/logs/mcp.log
+      - key: PORT
+        fromGroup: PORT
+    buildCommand: docker build -t ph-awards-mcp .
+    startCommand: docker run -p 3000:3000 ph-awards-mcp
